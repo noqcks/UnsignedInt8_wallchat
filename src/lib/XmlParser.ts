@@ -88,7 +88,7 @@ export async function convertXmlToTelegraphMarkdown(
       excerpt: string;
     };
 
-    const html = marked(content, {});
+    const html = await marked(content, { async: true });
     const root = parse(html, {}) as HTMLElement;
 
     const convert = (n: HTMLElement) => {
