@@ -68,7 +68,7 @@
     "fast-xml-parser": "^4.0.12",
     "file-box": "^1.4.15",
     "fluent-ffmpeg": "^2.1.2",
-    "got": "^11.8.5",
+    "got": "^14.2.1",
     "h2m": "^0.7.0",
     "html-entities": "^2.3.3",
     "https-proxy-agent": "^5.0.1",
