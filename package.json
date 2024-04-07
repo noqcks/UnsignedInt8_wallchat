@@ -74,7 +74,7 @@
     "https-proxy-agent": "^5.0.1",
     "inquirer": "^8.2.4",
     "is-gif": "3.0.0",
-    "ix": "^4.5.2",
+    "ix": "^5.0.0",
     "marked": "^4.2.12",
     "node-html-parser": "^5.4.2",
     "qr-image": "^3.2.0",
